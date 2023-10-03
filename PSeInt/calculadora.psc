@@ -39,9 +39,9 @@ Algoritmo Calculadora
 				res<-resta(num1,num2)
 				Escribir "La resta de " ,num1, " y " ,num2, " es " ,res
 			3:
-				Escribir "Introduce el primer multiplo"
+				Escribir "Introduce el primer múltiplo"
 				Leer mult1
-				Escribir "Introduce el segundo multiplo"
+				Escribir "Introduce el segundo múltiplo"
 				Leer mult2
 				res<-multiplicacion(mult1,mult2)
 				Escribir "La multiplicación de " ,mult1, " por " ,mult2, " es " ,res
